@@ -8,6 +8,14 @@ This Repo contains Java code which sets up a REST based web server running using
 Also it communicates to the backend MYSQL Database via Hibernate ORM. This is a very minimalistic
 web server which accepts and returns only JSON data. 
 
+
+#########################################################################################################################################################################
+
+MYSQL initialization script is available which will create the  base table with sample data -
+
+ >> books.sql
+
+
 #########################################################################################################################################################################
 
 CURL INPUTS -
